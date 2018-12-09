@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3415719321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3fb3554c35bed40b9697f5873e1938a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc983a3149e5fb03ce027e70c7a1a559
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/NEditor/RoleEditor/Res/Female/Materials/female_shoes-1_yellow.mat
+Dependencies: []

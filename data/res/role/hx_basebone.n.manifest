@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3316103999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e5f00ce8f013f55fbbfcffa6ded1ae5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cca9f12ca3e234535d395aff86a4d296
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/TempAsset/hx/basebone.prefab
+Dependencies: []

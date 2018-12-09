@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2141642651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f210b1a11640f398dc1e186b0de1e19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f8a63051121f9f3c6c623cbfc8150fcd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ee977fdc3159b140955ab8d59ccfb5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/TempAsset/female/female_pants-2/bonenames.asset
+- Assets/TempAsset/female/female_pants-2/mesh.prefab
+Dependencies: []

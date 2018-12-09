@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2767757663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcd65f27b1badba5d884a8db6b9279c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e600b39b9d2296acd447a11528064a5c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ee977fdc3159b140955ab8d59ccfb5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/TempAsset/hx/hx_head/mesh.prefab
+- Assets/TempAsset/hx/hx_head/bonenames.asset
+Dependencies: []

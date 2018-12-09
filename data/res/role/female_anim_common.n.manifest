@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3468664129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8a680d285539eeb8ebe6a49904164e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07757d18d3ad222c2010babdc7e451ea
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/TempAsset/female/AnimationClip/common/attack.anim
+- Assets/TempAsset/female/AnimationClip/common/walk.anim
+- Assets/TempAsset/female/AnimationClip/common/idle1.anim
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3851117176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd354b59dae5cdf3633ca4060c8cdedd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9253a810fc1d00c4e9bc81bc6a103a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 115dfe7b0938447cbbf9507076f54049, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e038bf700cfa444fb16c6ef963be9f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/NEditor/SceneEditor/Resources/Scene/Prefabs/Scenes/Terrain0.prefab
+Dependencies: []

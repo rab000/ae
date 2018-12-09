@@ -1,0 +1,163 @@
+ManifestFileVersion: 0
+CRC: 16671428
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: female_basebone.n
+      Dependencies: {}
+    Info_1:
+      Name: female_eyes.n
+      Dependencies: {}
+    Info_2:
+      Name: female_face-1.n
+      Dependencies: {}
+    Info_3:
+      Name: female_face-2.n
+      Dependencies: {}
+    Info_4:
+      Name: female_hair-1.n
+      Dependencies: {}
+    Info_5:
+      Name: female_hair-2.n
+      Dependencies: {}
+    Info_6:
+      Name: female_pants-1.n
+      Dependencies: {}
+    Info_7:
+      Name: female_pants-2.n
+      Dependencies: {}
+    Info_8:
+      Name: female_shoes-1.n
+      Dependencies: {}
+    Info_9:
+      Name: female_shoes-2.n
+      Dependencies: {}
+    Info_10:
+      Name: female_top-1.n
+      Dependencies: {}
+    Info_11:
+      Name: female_top-2.n
+      Dependencies: {}
+    Info_12:
+      Name: female_eyes_blue.n
+      Dependencies: {}
+    Info_13:
+      Name: female_eyes_brown.n
+      Dependencies: {}
+    Info_14:
+      Name: female_eyes_green.n
+      Dependencies: {}
+    Info_15:
+      Name: female_face-colora.n
+      Dependencies: {}
+    Info_16:
+      Name: female_face-colorb.n
+      Dependencies: {}
+    Info_17:
+      Name: female_hair-1_brown.n
+      Dependencies: {}
+    Info_18:
+      Name: female_hair-1_red.n
+      Dependencies: {}
+    Info_19:
+      Name: female_hair-1_yellow.n
+      Dependencies: {}
+    Info_20:
+      Name: female_hair-2_cyan.n
+      Dependencies: {}
+    Info_21:
+      Name: female_hair-2_dark.n
+      Dependencies: {}
+    Info_22:
+      Name: female_hair-2_pink.n
+      Dependencies: {}
+    Info_23:
+      Name: female_hands_blue.n
+      Dependencies: {}
+    Info_24:
+      Name: female_pants-1_blue.n
+      Dependencies: {}
+    Info_25:
+      Name: female_pants-1_dark.n
+      Dependencies: {}
+    Info_26:
+      Name: female_pants-1_green.n
+      Dependencies: {}
+    Info_27:
+      Name: female_pants-2_black.n
+      Dependencies: {}
+    Info_28:
+      Name: female_pants-2_blue.n
+      Dependencies: {}
+    Info_29:
+      Name: female_pants-2_orange.n
+      Dependencies: {}
+    Info_30:
+      Name: female_shoes-1_blue.n
+      Dependencies: {}
+    Info_31:
+      Name: female_shoes-1_green.n
+      Dependencies: {}
+    Info_32:
+      Name: female_shoes-1_yellow.n
+      Dependencies: {}
+    Info_33:
+      Name: female_shoes-2_blue.n
+      Dependencies: {}
+    Info_34:
+      Name: female_shoes-2_red.n
+      Dependencies: {}
+    Info_35:
+      Name: female_shoes-2_yellow.n
+      Dependencies: {}
+    Info_36:
+      Name: female_top-1_blue.n
+      Dependencies: {}
+    Info_37:
+      Name: female_top-1_green.n
+      Dependencies: {}
+    Info_38:
+      Name: female_top-1_pink.n
+      Dependencies: {}
+    Info_39:
+      Name: female_top-2_green.n
+      Dependencies: {}
+    Info_40:
+      Name: female_top-2_orange.n
+      Dependencies: {}
+    Info_41:
+      Name: female_top-2_purple.n
+      Dependencies: {}
+    Info_42:
+      Name: female_anim_common.n
+      Dependencies: {}
+    Info_43:
+      Name: hx_basebone.n
+      Dependencies: {}
+    Info_44:
+      Name: hx_down.n
+      Dependencies: {}
+    Info_45:
+      Name: hx_face.n
+      Dependencies: {}
+    Info_46:
+      Name: hx_hand.n
+      Dependencies: {}
+    Info_47:
+      Name: hx_head.n
+      Dependencies: {}
+    Info_48:
+      Name: hx_shoes.n
+      Dependencies: {}
+    Info_49:
+      Name: hx_top.n
+      Dependencies: {}
+    Info_50:
+      Name: hanxin.n
+      Dependencies: {}
+    Info_51:
+      Name: hx_anim_common.n
+      Dependencies: {}
+    Info_52:
+      Name: hx_anim_sk1.n
+      Dependencies: {}
