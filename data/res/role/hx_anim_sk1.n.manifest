@@ -1,18 +1,18 @@
 ManifestFileVersion: 0
-CRC: 2240802212
+CRC: 1059053958
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 99e4b011c36b9c487f3b8ee97e856c51
+    Hash: 98297b08397cd8bf20298ede00b0cc44
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 07757d18d3ad222c2010babdc7e451ea
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
 HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
 Assets:
-- Assets/TempAsset/hx/AnimationClip/sk1/sk0.anim
-- Assets/TempAsset/hx/AnimationClip/sk1/sk2.anim
 - Assets/TempAsset/hx/AnimationClip/sk1/sk1.anim
+- Assets/TempAsset/hx/AnimationClip/sk1/sk2.anim
+- Assets/TempAsset/hx/AnimationClip/sk1/sk0.anim
 Dependencies: []

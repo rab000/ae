@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2767757663
+CRC: 1078449572
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bcd65f27b1badba5d884a8db6b9279c8
+    Hash: d874902eb0deef8ecd0e1e46e951bce6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e600b39b9d2296acd447a11528064a5c
+    Hash: d0bf208417a691b2b28b2211f87fa9fe
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,6 +28,6 @@ ClassTypes:
 - Class: 137
   Script: {instanceID: 0}
 Assets:
-- Assets/TempAsset/hx/hx_head/mesh.prefab
 - Assets/TempAsset/hx/hx_head/bonenames.asset
+- Assets/TempAsset/hx/hx_head/mesh.prefab
 Dependencies: []
